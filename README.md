@@ -1,2 +1,2 @@
 # Logica-Java
- Logia de programacao em Java
+ Logica de programacao em Java
